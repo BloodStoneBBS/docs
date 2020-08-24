@@ -14,6 +14,8 @@ none of the 16-bit DOS programs and utilities you use
 with WWIV will work on 64-bit windows. For the best
 experience, we recommend you use a 32bit x86 version of Windows.
 
+Install latest Visual C++ Runtimes from https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads
+
 **Windows Updates**
 
 You should have ALL high priority updates on your Windows
